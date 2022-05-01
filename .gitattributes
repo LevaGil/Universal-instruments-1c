@@ -1,2 +1,4 @@
 *.epf linguist-language=1C-Enterprise
+*.epf linguist-language=1C
 *.erf linguist-language=1C-Enterprise
+*.erf linguist-language=1C
